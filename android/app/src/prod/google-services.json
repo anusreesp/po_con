@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "321911795767",
+    "project_id": "partyone-live-pro-1",
+    "storage_bucket": "partyone-live-pro-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321911795767:android:fca807d225633bafb04fb2",
+        "android_client_info": {
+          "package_name": "one.party.concierge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321911795767-6sn3vlqkgicj90701gr0n9al14e8imh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCZGmN-t77PCgIRxqC-mD2jTtlz0LOYBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321911795767-6sn3vlqkgicj90701gr0n9al14e8imh6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "321911795767-r9tnsp0nqqe9junte79v4cppj30h1lpm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "one.party.customer",
+                "app_store_id": "6447307905"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321911795767:android:bf0aff390982fba4b04fb2",
+        "android_client_info": {
+          "package_name": "one.party.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321911795767-6sn3vlqkgicj90701gr0n9al14e8imh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCZGmN-t77PCgIRxqC-mD2jTtlz0LOYBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321911795767-6sn3vlqkgicj90701gr0n9al14e8imh6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "321911795767-r9tnsp0nqqe9junte79v4cppj30h1lpm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "one.party.customer",
+                "app_store_id": "6447307905"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

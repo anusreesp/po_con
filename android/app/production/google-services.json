@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "553870036424",
+    "project_id": "party-one-7bbee",
+    "storage_bucket": "party-one-7bbee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553870036424:android:2f1aadfd2a524290a044fd",
+        "android_client_info": {
+          "package_name": "one.party.concierge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553870036424-th2jviqhsolt1j4mmh2v35jahcljuoem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUS7HDqbo_UU3ytOoN3_kSVTo6nAv9D2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553870036424-jvm5rl823nljjm7tek1l0q0q3kmcrhjb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "553870036424-8hnbd5ot22b5q8bf2o2jgp5c3ostvi51.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "one.party.concierge"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553870036424:android:eee0c8d47abc2858a044fd",
+        "android_client_info": {
+          "package_name": "one.party.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553870036424-dn3aps1mqgdc35c3g1mq8h0n5lqntakk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "one.party.customer",
+            "certificate_hash": "f2493a0952d6a18b4d652cc9074ca24fa481e090"
+          }
+        },
+        {
+          "client_id": "553870036424-th2jviqhsolt1j4mmh2v35jahcljuoem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUS7HDqbo_UU3ytOoN3_kSVTo6nAv9D2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553870036424-jvm5rl823nljjm7tek1l0q0q3kmcrhjb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "553870036424-8hnbd5ot22b5q8bf2o2jgp5c3ostvi51.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "one.party.concierge"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
